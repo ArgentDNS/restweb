@@ -1,0 +1,5 @@
+com\finality\backend\controller\UserController.class
+com\finality\backend\controller\LoginRequest.class
+com\finality\backend\repository\UserRepository.class
+com\finality\backend\service\UserService.class
+com\finality\backend\model\User.class
